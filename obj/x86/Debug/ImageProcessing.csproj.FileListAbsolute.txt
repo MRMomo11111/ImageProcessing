@@ -1,0 +1,61 @@
+D:\My Work\forth year\1st semester\Img Processing lab\New folder\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.Form1.resources
+D:\My Work\forth year\1st semester\Img Processing lab\New folder\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
+D:\My Work\forth year\1st semester\Img Processing lab\New folder\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.csproj.GenerateResource.Cache
+D:\My Work\forth year\1st semester\Img Processing lab\New folder\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+D:\My Work\forth year\1st semester\Img Processing lab\New folder\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+D:\My Work\forth year\1st semester\Img Processing lab\New folder\ImageProcessing\ImageProcessing\bin\Debug\openCV.dll
+D:\My Work\forth year\1st semester\Img Processing lab\New folder\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.exe
+D:\My Work\forth year\1st semester\Img Processing lab\New folder\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.pdb
+D:\My Work\forth year\1st semester\Img Processing lab\New folder\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.FormHistogram.resources
+D:\My Work\forth year\1st semester\Img Processing lab\New folder\ImageProcessing\ImageProcessing\obj\x86\Debug\ImageProcessing.FormRGBcs.resources
+D:\My Work\forth year\1st semester\Img Processing lab\New folder\New folder\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.exe
+D:\My Work\forth year\1st semester\Img Processing lab\New folder\New folder\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.pdb
+G:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.exe
+G:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.pdb
+G:\imageeeeeee\ImageProcessing22\ImageProcessing\bin\Debug\ImageProcessing.exe
+G:\imageeeeeee\ImageProcessing22\ImageProcessing\bin\Debug\ImageProcessing.pdb
+G:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+G:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.Form1.resources
+G:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.FormHistogram.resources
+G:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.FormRGB.resources
+G:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
+G:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.csproj.GenerateResource.Cache
+E:\New folder (4)\gam3a mo3eda\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.exe
+E:\New folder (4)\gam3a mo3eda\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.pdb
+E:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.exe
+E:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.pdb
+E:\imageeeeeee\ImageProcessing22\ImageProcessing\bin\Debug\ImageProcessing.exe
+E:\imageeeeeee\ImageProcessing22\ImageProcessing\bin\Debug\ImageProcessing.pdb
+E:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.Form1.resources
+E:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.FormHistogram.resources
+E:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.FormRGB.resources
+E:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
+E:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\imageeeeeee\ImageProcessing22\ImageProcessing\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ملفات\ImageProcessing-20250424T185101Z-001\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+E:\ملفات\ImageProcessing-20250424T185101Z-001\ImageProcessing\bin\Debug\ImageProcessing.exe
+E:\ملفات\ImageProcessing-20250424T185101Z-001\ImageProcessing\bin\Debug\ImageProcessing.pdb
+E:\ملفات\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.csproj.AssemblyReference.cache
+E:\ملفات\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.Form1.resources
+E:\ملفات\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.FormHistogram.resources
+E:\ملفات\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.FormRGB.resources
+E:\ملفات\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
+E:\ملفات\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.csproj.GenerateResource.cache
+E:\ملفات\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+E:\ملفات\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImagePro.C60485DA.Up2Date
+E:\ملفات\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.exe
+E:\ملفات\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.pdb
+E:\fils\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.csproj.AssemblyReference.cache
+E:\fils\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.Form1.resources
+E:\fils\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.FormHistogram.resources
+E:\fils\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.FormRGB.resources
+E:\fils\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
+E:\fils\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.csproj.GenerateResource.cache
+E:\fils\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+E:\fils\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.exe
+E:\fils\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImageProcessing.pdb
+E:\fils\ImageProcessing-20250424T185101Z-001\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+E:\fils\ImageProcessing-20250424T185101Z-001\ImageProcessing\bin\Debug\ImageProcessing.exe
+E:\fils\ImageProcessing-20250424T185101Z-001\ImageProcessing\bin\Debug\ImageProcessing.pdb
+E:\fils\ImageProcessing-20250424T185101Z-001\ImageProcessing\obj\x86\Debug\ImagePro.C60485DA.Up2Date
